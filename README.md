@@ -1,3 +1,5 @@
+![main_icon](https://github.com/Alekcey264/DiplomaVerevkin/assets/90438318/66b2edba-ca11-4511-8fb3-0a914a0ce822)
+![main_icon](https://github.com/Alekcey264/DiplomaVerevkin/assets/90438318/f899d8f0-849e-42ad-b522-ce6e17b5744a)
 # Информационная система для диагностики аппаратного обеспечения ПК
 Краткое наименование: AInPC</br>
 Полное наименование: Программа для диагностики аппаратной части ПК "Aleksey's Information of PC"
