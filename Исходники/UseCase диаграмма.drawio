@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-11-10T17:01:59.869Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="A-SXnNF9_IrVNVCgVD93" version="22.1.0" type="device">
+  <diagram name="Страница — 1" id="ow6kIccfzkteTsA99sFw">
+    <mxGraphModel dx="1026" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3syI5Wygi71NYrMecXAK-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-1" target="3syI5Wygi71NYrMecXAK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-1" target="3syI5Wygi71NYrMecXAK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-1" value="Специалист по ремонту&lt;br&gt;компьютерной техники" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-2" target="3syI5Wygi71NYrMecXAK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-2" value="Изучение числовых данных с датчиков устройства в табличном виде" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-40" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-4" target="3syI5Wygi71NYrMecXAK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-4" value="Изучение числовых данных&amp;nbsp;о процессоре" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-6" target="3syI5Wygi71NYrMecXAK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-6" value="Изучение числовых данных&amp;nbsp;о видеокарте" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-150" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-8" target="3syI5Wygi71NYrMecXAK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-8" value="Изучение числовых данных&amp;nbsp;об оперативной памяти" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168" y="-220" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-10" target="3syI5Wygi71NYrMecXAK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-10" value="Изучение числовых данных&amp;nbsp;о материнской плате" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="-180" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-14" value="Изучение неизмяемых данных об устройстве" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-16" target="3syI5Wygi71NYrMecXAK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-16" value="Изучение данных об устройстве, полученных из системы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-19" target="3syI5Wygi71NYrMecXAK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-19" value="Получение данных об устройстве, полученных из базы данных" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-22" target="3syI5Wygi71NYrMecXAK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-22" value="База данных" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-25" value="Изучение данных с датчиков устройства" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3syI5Wygi71NYrMecXAK-28" target="3syI5Wygi71NYrMecXAK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3syI5Wygi71NYrMecXAK-28" value="Изучение графической интерпретации числовых данных с датчиков устройства" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-40" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
